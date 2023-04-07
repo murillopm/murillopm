@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studying at University of São Paulo
-- 🌱 I’m currently learning HTML, CSS, JavaScript/TypeScript, ReactJS and NodeJS
+- 🔭 Computer engineering bachelor's at University of Sao Paulo (USP)
+- 🌱 Current stack: JavaScript/TypeScript, React, Next, Node, Nest
 - 📫 How to reach me: @mupracucio on Instagram
 
 <div align="center">
