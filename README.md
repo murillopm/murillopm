@@ -2,7 +2,7 @@
 
 
 - 🔭 Computer engineering bachelor's at University of Sao Paulo (USP)
-- 🌱 Current stack: JavaScript/TypeScript, React, Next, Node, Nest
+- 🌱 Current stack: JavaScript/TypeScript, React, Next, Node, Nest, HTML/CSS
 - 📫 How to reach me: @mupracucio on Instagram
 
 <div align="center">
